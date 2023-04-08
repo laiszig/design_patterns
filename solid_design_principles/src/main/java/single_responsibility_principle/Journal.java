@@ -1,4 +1,4 @@
-package org.laiszig.single_responsibility_principle;
+package single_responsibility_principle;
 
 import java.io.File;
 import java.io.FileNotFoundException;
