@@ -42,8 +42,8 @@ class Persistence {
             }
         }
     }
-//    public Journal load (String filename) {}
-//    public Journal load (URL url) {}
+    public Journal load (String filename) {}
+    public Journal load (URL url) {}
 }
 
 class Demo {
