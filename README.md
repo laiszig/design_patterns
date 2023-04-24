@@ -1,4 +1,4 @@
-# Spring Boot Studies
+# Design Patterns Studies
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/laiszig/design_patterns?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/laiszig/design_patterns?style=for-the-badge)
