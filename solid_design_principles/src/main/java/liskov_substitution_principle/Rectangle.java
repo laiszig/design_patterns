@@ -1,5 +1,16 @@
 package liskov_substitution_principle;
 
+/**
+ - S is a subtype of T, then objects of type T may be replaced with objects of type S.
+ - Derived types must be completely substitutable for their base types.
+ - Liskov substitution Principle is a particular definition of a subtyping relation,
+ called (strong) behavioral subtyping.
+
+ - No new exceptions can be thrown by the subtype
+ - Clients should not know which specific subtype they are calling
+ - New derived classes just extend without replacing the functionality of old classes
+ **/
+
 public class Rectangle {
 
     protected int width, height;
