@@ -10,6 +10,8 @@ The intent of this repository is to study design patterns using Java Language.
 
 ## Topics covered so far
 * SOLID Design Principles
+* Factory Pattern
+* Strategy Pattern
 
 ### Steps to run applications
 ```
